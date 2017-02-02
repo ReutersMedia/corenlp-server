@@ -8,18 +8,21 @@
       <groupId>edu.stanford.nlp</groupId>
       <artifactId>stanford-corenlp</artifactId>
       <version>3.7.0</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>edu.stanford.nlp</groupId>
       <artifactId>stanford-corenlp</artifactId>
       <version>3.7.0</version>
       <classifier>models-english</classifier>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>edu.stanford.nlp</groupId>
       <artifactId>stanford-corenlp</artifactId>
       <version>3.7.0</version>
       <classifier>models-english-kbp</classifier>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>
